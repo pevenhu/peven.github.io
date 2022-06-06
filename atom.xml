@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pevenhu.github.io/peven.github.io/</id>
-    <title>Gridea</title>
-    <updated>2022-06-06T13:43:11.584Z</updated>
+    <title>PEVEN</title>
+    <updated>2022-06-06T13:49:38.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pevenhu.github.io/peven.github.io/"/>
     <link rel="self" href="https://pevenhu.github.io/peven.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>记录想记录的一切</subtitle>
     <logo>https://pevenhu.github.io/peven.github.io/images/avatar.png</logo>
     <icon>https://pevenhu.github.io/peven.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, PEVEN</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://pevenhu.github.io/peven.github.io/post/hello-gridea/</id>
