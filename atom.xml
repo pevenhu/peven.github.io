@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.peven.cn</id>
     <title>PEVEN</title>
-    <updated>2022-06-06T14:57:11.846Z</updated>
+    <updated>2022-06-06T15:07:15.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.peven.cn"/>
     <link rel="self" href="https://www.peven.cn/atom.xml"/>
@@ -11,9 +11,9 @@
     <icon>https://www.peven.cn/favicon.ico</icon>
     <rights>All rights reserved 2022, PEVEN</rights>
     <entry>
-        <title type="html"><![CDATA[Hello PEVEN's Blog]]></title>
-        <id>https://www.peven.cn/post/hello-peven&apos;s blog/</id>
-        <link href="https://www.peven.cn/post/hello-peven&apos;s blog/">
+        <title type="html"><![CDATA[PEVEN's Blog]]></title>
+        <id>https://www.peven.cn/post/peven&apos;s blog/</id>
+        <link href="https://www.peven.cn/post/peven&apos;s blog/">
         </link>
         <updated>2022-06-06T13:55:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>PEVEN</strong> ！<br>
