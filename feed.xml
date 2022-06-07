@@ -3,7 +3,7 @@
     <title>PEVEN&#x27;S Blog</title>
     <link href="https://www.peven.cn/feed.xml" rel="self" />
     <link href="https://www.peven.cn" />
-    <updated>2022-06-07T17:34:58+08:00</updated>
+    <updated>2022-06-07T19:29:17+08:00</updated>
     <author>
         <name>PEVEN</name>
     </author>
@@ -16,12 +16,12 @@
         </author>
         <link href="https://www.peven.cn/github-pagesgrideada-jian-ge-ren-bo-ke.html"/>
         <id>https://www.peven.cn/github-pagesgrideada-jian-ge-ren-bo-ke.html</id>
-            <category term="技能"/>
+            <category term="IT"/>
 
         <updated>2022-06-07T17:34:58+08:00</updated>
             <summary>
                 <![CDATA[
-                    **1 概述** **Github Pages**可以用来托管个人网站，静态的，便于用来实现博客，可以在一个仓库的settings中开启： **Gridea**是一个静态博客写作客户端，所有文件都在本地，没有数据库，实现简单，支持Markdown。 **2 准备工作** 一个**Gthub**账号 一个**Github Pages**的仓库 一个**Gridea**客户端 （可选）一个域名 3 **Github Pages** 仓库名是: *highlighter- stylus 用户名.github.io* 需要公开仓库与一个REDAME.md文件，然后创建。 进入设置开启Github Pages： 下拉找到Github Pages: 默认使用master分支,可以选择主题. 然后在浏览器输入刚才创建的仓库名就可以访问了. **4 Gridea** 理论上来说这样就完成了，但是如果想更好看和更方便管理一些，就要用Gridea。 下载之后直接打开，进入设置： 域名与仓库名一样，分支填master（或main），邮箱自己填，这里说一下Token，打开设置中的开发者设置： 新建一个Token： 只需要勾选仓库相关的权限，名字可以随便。 复制填入。 然后可以测试一下连接： 若失败请返回前几步看看哪里出错。 设置好了之后可以设置主题等，自定义美化。 设置好了之后可以先预览再同步。 同步完成后就可以在浏览器输入 *bash 用户名.github.io* 进行访问了。 **5 绑定域名(可选)** 如果购买了域名的话,可以绑定到自己的域名上面，笔者的域名是阿里云上购买的，因此这里以阿里云的为例，进入域名的解析页面，添加两个记录：&hellip;
+                    **1 概述** **Github Pages**可以用来托管个人网站，静态的，便于用来实现博客，可以在一个仓库的settings中开启： **Gridea**是一个静态博客写作客户端，所有文件都在本地，没有数据库，实现简单，支持Markdown。 **2 准备工作** 一个**Gthub**账号 一个**Github Pages**的仓库 一个**Gridea**客户端 （可选）一个域名 3 **Github Pages** 仓库名是: *highlighter- stylus 用户名.github.io* 需要公开仓库与一个REDAME.md文件，然后创建。&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -103,22 +103,27 @@
         <id>https://www.peven.cn/guan-yu.html</id>
             <category term="PEVEN"/>
 
-        <updated>2022-06-07T17:25:37+08:00</updated>
+        <updated>2022-06-07T19:29:17+08:00</updated>
             <summary>
                 <![CDATA[
-                    💻只是一个BLOG，简简单单记录想记录的一切。 🐱不常更新，但总会有。 👨‍🎓不限种类的 🧭一点一滴的 ⏱慢慢的 ⏰只到它成型
+                    🏠 关于本站 💻只是一个BLOG，简简单单记录想记录的一切。 🐱不常更新，但总会有。 👨‍🎓不限种类的 🧭一点一滴的 ⏱慢慢的 ⏰只到它成型 本博客内容杂乱，不拘一格。欢迎参观，但不建议留言； 博客内容只代表我个人观点，不代表别人观点； 商业网站、纸媒、自媒如转载，须经本人同意，并支付稿酬。 个人可以随便转载，无须支付稿酬，但必须注明出处或链接； 本人不上电视，不写商业软文，不给任何出版物写推荐语、序言，不做嘉宾。请有上述意向者调头。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__image"><img loading="lazy"  src="https://www.peven.cn/media/posts/1/20220527-3.gif" alt="" width="80" height="80"></figure>
+<h1 class="align-left">🏠 <strong>关于本站</strong></h1>
 <p>💻只是一个<strong>BLOG</strong>，简简单单记录想记录的一切。</p>
 <p class="align-left">🐱不常更新，但总会有。</p>
 <p class="align-left">👨‍🎓不限种类的</p>
 <p class="align-left">🧭一点一滴的</p>
 <p class="align-left">⏱慢慢的</p>
 <p class="align-left">⏰只到它成型 </p>
-<figure class="post__image"><img loading="lazy"  src="https://www.peven.cn/media/posts/1/peven-2.png" sizes="100vw" srcset="https://www.peven.cn/media/posts/1/responsive/peven-2-xs.png 300w ,https://www.peven.cn/media/posts/1/responsive/peven-2-sm.png 480w ,https://www.peven.cn/media/posts/1/responsive/peven-2-md.png 768w ,https://www.peven.cn/media/posts/1/responsive/peven-2-lg.png 1024w ,https://www.peven.cn/media/posts/1/responsive/peven-2-xl.png 1360w ,https://www.peven.cn/media/posts/1/responsive/peven-2-2xl.png 1600w"  alt="" width="200" height="200"></figure>
+<div>
+<div> </div>
+</div>
+<p>本博客内容杂乱，不拘一格。欢迎参观，但不建议留言；<br>博客内容只代表我个人观点，不代表别人观点；<br>商业网站、纸媒、自媒如转载，须经本人同意，并支付稿酬。<br>个人可以随便转载，无须支付稿酬，但必须注明出处或链接；<br>本人不上电视，不写商业软文，不给任何出版物写推荐语、序言，不做嘉宾。请有上述意向者调头。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.peven.cn/media/posts/1/PEVEN-LOGOZheng-Shi-Ban-Tou-Xiang.jpg" sizes="100vw" srcset="https://www.peven.cn/media/posts/1/responsive/PEVEN-LOGOZheng-Shi-Ban-Tou-Xiang-xs.jpg 300w ,https://www.peven.cn/media/posts/1/responsive/PEVEN-LOGOZheng-Shi-Ban-Tou-Xiang-sm.jpg 480w ,https://www.peven.cn/media/posts/1/responsive/PEVEN-LOGOZheng-Shi-Ban-Tou-Xiang-md.jpg 768w ,https://www.peven.cn/media/posts/1/responsive/PEVEN-LOGOZheng-Shi-Ban-Tou-Xiang-lg.jpg 1024w ,https://www.peven.cn/media/posts/1/responsive/PEVEN-LOGOZheng-Shi-Ban-Tou-Xiang-xl.jpg 1360w ,https://www.peven.cn/media/posts/1/responsive/PEVEN-LOGOZheng-Shi-Ban-Tou-Xiang-2xl.jpg 1600w"  alt="" width="350" height="350"></figure>
             ]]>
         </content>
     </entry>
