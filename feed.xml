@@ -3,7 +3,7 @@
     <title>PEVEN&#x27;S Blog</title>
     <link href="https://www.peven.cn/feed.xml" rel="self" />
     <link href="https://www.peven.cn" />
-    <updated>2022-06-07T19:52:40+08:00</updated>
+    <updated>2022-06-07T19:56:23+08:00</updated>
     <author>
         <name>PEVEN</name>
     </author>
@@ -44,16 +44,16 @@
         <id>https://www.peven.cn/github-pagesgrideada-jian-ge-ren-bo-ke/</id>
             <category term="IT"/>
 
-        <updated>2022-06-07T19:52:40+08:00</updated>
+        <updated>2022-06-07T19:56:23+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.peven.cn/media/posts/2/18-2.png" alt="" />
+                        <img src="https://www.peven.cn/media/posts/2/25.png" alt="" />
                     **1 概述** **Github Pages**可以用来托管个人网站，静态的，便于用来实现博客，可以在一个仓库的settings中开启： **Gridea**是一个静态博客写作客户端，所有文件都在本地，没有数据库，实现简单，支持Markdown。 **2 准备工作** 一个**Gthub**账号 一个**Github Pages**的仓库 一个**Gridea**客户端 （可选）一个域名 3 **Github Pages** 仓库名是: *highlighter- stylus 用户名.github.io* 需要公开仓库与一个REDAME.md文件，然后创建。&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.peven.cn/media/posts/2/18-2.png" alt="" />
+                    <img src="https://www.peven.cn/media/posts/2/25.png" alt="" />
                 <div>**1 概述**</div>
 <div>**Github Pages**可以用来托管个人网站，静态的，便于用来实现博客，可以在一个仓库的settings中开启：</div>
 <div><figure class="post__image"><img loading="lazy"  src="https://www.peven.cn/media/posts/2/1.png" sizes="100vw" srcset="https://www.peven.cn/media/posts/2/responsive/1-xs.png 300w ,https://www.peven.cn/media/posts/2/responsive/1-sm.png 480w ,https://www.peven.cn/media/posts/2/responsive/1-md.png 768w ,https://www.peven.cn/media/posts/2/responsive/1-lg.png 1024w ,https://www.peven.cn/media/posts/2/responsive/1-xl.png 1360w ,https://www.peven.cn/media/posts/2/responsive/1-2xl.png 1600w"  alt="" width="767" height="352"></figure></div>
